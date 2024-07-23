@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tharindu Sabaragamuwa</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
+<img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabaragamuwasatd&label=Profile%20views&color=0e75b6&style=flat" alt="sabaragamuwasatd" /> </p>
 
