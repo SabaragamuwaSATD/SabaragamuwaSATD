@@ -77,13 +77,6 @@ fun_fact    : "I am not funny, but I'm funny 😯😂"
 📅 `2021 — 2026`
 
 </td>
-<td width="50%">
-
-### 🏫 St. Mary's College, Kegalle
-**G.C.E. Advanced Level** — Biology Stream `2020`
-**G.C.E. Ordinary Level** — `6 As, 2 Bs, 1 C` `2016`
-
-</td>
 </tr>
 </table>
 
